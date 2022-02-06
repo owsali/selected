@@ -6,7 +6,7 @@
 * [Aiza-2110E-One pager](https://aiza5malik.github.io/onepager/)
 * [Maaz-2111F](https://owsali.github.io/simple-page/)
 * [Taha-2111F]()
-* [Aamir-2111F]()
+* [Aamir-2111F-Adventure Site](https://aamiraaaa.github.io/simple-html-or-css-page/)
 
 ## Bootstrap Projects
 
